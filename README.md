@@ -20,6 +20,7 @@ I used following technologies;
 - Javascript
 ## Support and contact details
 You can reach me through ian.wanarua@student.moringaschool.com
+
 https://ianwanarua.github.io/Akan-Name/
 ### License
 This project is under this [MIT](LICENSE) <br>
