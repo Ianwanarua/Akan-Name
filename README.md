@@ -6,7 +6,7 @@
 ## Setup/Installation Requirements
 {There is no special installation needed. The website runs on all browsers. You can run it on chrome browser.}
 ## Known Bugs
-{There were no bugs }
+{There were no bugs encountered.}
 ## Technologies Used
 {I used following technologies;
 Html
@@ -14,6 +14,7 @@ Css
 Javascript}
 ## Support and contact details
 {You can reach me through ian.wanarua@student.moringaschool.com}
+
 https
 ### License
 This project is under this [MIT](LICENSE) <br>
