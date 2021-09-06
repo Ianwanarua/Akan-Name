@@ -57,6 +57,13 @@ td, th {
     margin-top: 10px;
     font-size: 25px;
   }
+  .gen{
+    font-size: 25px;
+  }
+  .display{
+    display: flex;
+    margin-top: 18px;
+  }
   #btn{
     font-size: 25px;
     background-color: darkslategrey;
@@ -72,5 +79,5 @@ td, th {
   }
   #results{
     font-size: 25px;
-    align-items: flex-end;
+   
   }
