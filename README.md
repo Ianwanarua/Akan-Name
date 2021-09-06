@@ -14,6 +14,7 @@ Css
 Javascript}
 ## Support and contact details
 {You can reach me through ian.wanarua@student.moringaschool.com}
+ianwanarua.github.io/akan-name/
 ### License
 This project is under this [MIT](LICENSE) <br>
 Copyright (c) {2021} **{Akanname website}**
