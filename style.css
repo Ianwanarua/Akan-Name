@@ -64,10 +64,13 @@ td, th {
     color: white;
     padding: 10px;
   }
-  
   .wrapperform{
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+  }
+  #results{
+    font-size: 25px;
+    align-items: flex-end;
   }
